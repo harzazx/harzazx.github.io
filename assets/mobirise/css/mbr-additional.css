@@ -1,9 +1,11 @@
-#menu-4 .mbr-brand__name {
-  font-size: 16px;
+#msg-box3-7 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
 }
-#menu-4.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+#msg-box3-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
-#menu-4 .mbr-navbar__hamburger {
+#msg-box3-7 .mbr-article P {
+  text-align: center;
   color: #ffffff;
 }
